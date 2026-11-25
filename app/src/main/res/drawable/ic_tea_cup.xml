@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- steam -->
+    <path android:fillColor="#00000000" android:strokeColor="#E8A33D" android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M8,2.5c-0.8,1 0.8,2 0,3M11.5,2.5c-0.8,1 0.8,2 0,3M15,2.5c-0.8,1 0.8,2 0,3" />
+    <!-- cup -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M4,8h15v5.5c0,3.6 -2.9,6.5 -6.5,6.5h-2c-3.6,0 -6.5,-2.9 -6.5,-6.5z" />
+    <!-- handle -->
+    <path android:fillColor="#00000000" android:strokeColor="#FFFFFF" android:strokeWidth="1.6"
+        android:pathData="M19,9.5h0.8c1.2,0 2.2,1 2.2,2.2s-1,2.2 -2.2,2.2H18.6" />
+    <!-- saucer -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M2.5,21h18c0,0.6 -0.4,1 -1,1h-16c-0.6,0 -1,-0.4 -1,-1z" />
+</vector>

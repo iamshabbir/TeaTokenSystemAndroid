@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tea Token System</string>
+    <string name="splash_tagline">Smart tea token management</string>
+    <string name="version_label">Version %1$s</string>
+    <string name="offline_title">No internet connection</string>
+    <string name="offline_message">Please check your Wi-Fi or mobile data and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="downloading">Downloading %1$s</string>
+    <string name="download_failed">Download failed</string>
+</resources>

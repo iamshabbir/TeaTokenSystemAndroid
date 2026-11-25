@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#6B3E26</color>
+    <color name="brand_primary_dark">#4A2A19</color>
+    <color name="brand_accent">#E8A33D</color>
+    <color name="splash_background">#6B3E26</color>
+    <color name="on_brand">#FFFFFF</color>
+    <color name="screen_background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>
